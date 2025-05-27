@@ -28,7 +28,7 @@ Master of Science in Computer Science (MSCS)
 * Managed Windows-specific thread affinity for optimizing performance on multi-core processors.
 * **Key Technologies & Concepts:** C++, Standard Template Library (STL), OpenMP, OpenCV, Agent-Based Modeling, Discrete Event Simulation, Object-Oriented Design, Parallel Computing, Data Logging, C++ Random Libraries, FFmpeg (via OpenCV).
 
-**Developer & Researcher: RF-MIMIC Algorithm (Random Forest-based EDA)** | Personal Research/Project
+**Developer & Researcher: Forest-guided Estimation of Distributions Algorithm (Random Forest-based EDA)** | Personal Research/Project
 *(March 2024 – March 2025)*
 * Designed and implemented `RF-MIMIC`, a novel Estimation of Distribution Algorithm (EDA) for binary optimization problems.
 * The algorithm utilizes a Random Forest (from scikit-learn) to model the probability distribution of elite solutions within a population.
