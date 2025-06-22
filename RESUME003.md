@@ -38,7 +38,7 @@ GPA: 3.9
 - Authored >1.8 k lines of production‑quality Python with full pytest coverage; packaged for PyPI and documented in reproducible Jupyter notebooks.
   **Technologies:** Python, scikit‑learn, NumPy, evolutionary algorithms.
 
-#### AI Maze‑Solving Platform & Custom “No‑Turn” Heuristic  ‑Solving Platform & Custom “No‑Turn” Heuristic  
+#### AI Maze‑Solving Platform & Custom “No‑Turn” Heuristic   
 *Mar 2025*
 - Developed a Python/Pygame platform generating and visualizing mazes, comparing DFS, BFS, A*, and a novel “No‑Turn” heuristic optimizing straight‑line traversal.
 - Engineered dual‑view visualization (full maze + discovered area) with panning and scrolling for agent analysis.
