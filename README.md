@@ -1,5 +1,5 @@
 # Tawan Teopipithaporn
-San Bruno, CA 94066 • (404) 547‑3182 • tortawan@hotmail.com • [[LinkedIn](https://www.linkedin.com/in/tawan-teopipithaporn-13389915a/)](https://www.linkedin.com/in/tawan-teopipithaporn-13389915a/)
+San Bruno, CA 94066 • (404) 547‑3182 • tortawan@hotmail.com • (https://www.linkedin.com/in/tawan-teopipithaporn-13389915a/)
 
 ---
 
